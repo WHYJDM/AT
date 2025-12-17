@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRunners.NUnit", "TestRunners.NUnit\TestRunners.NUnit.csproj", "{636B12B1-347E-4262-9EC0-4789CFADA872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRunners.xUnit", "TestRunners.xUnit\TestRunners.xUnit.csproj", "{D6EE83F3-0297-4350-B51D-87A2D0DAAA7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRunners.Reqnroll", "TestRunners.Reqnroll\TestRunners.Reqnroll.csproj", "{2A995003-F30C-41EF-8835-C34801571113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636B12B1-347E-4262-9EC0-4789CFADA872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636B12B1-347E-4262-9EC0-4789CFADA872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636B12B1-347E-4262-9EC0-4789CFADA872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636B12B1-347E-4262-9EC0-4789CFADA872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6EE83F3-0297-4350-B51D-87A2D0DAAA7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EE83F3-0297-4350-B51D-87A2D0DAAA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EE83F3-0297-4350-B51D-87A2D0DAAA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EE83F3-0297-4350-B51D-87A2D0DAAA7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A995003-F30C-41EF-8835-C34801571113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A995003-F30C-41EF-8835-C34801571113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A995003-F30C-41EF-8835-C34801571113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A995003-F30C-41EF-8835-C34801571113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
